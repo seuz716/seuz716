@@ -1,9 +1,10 @@
 p{ 
-    text-align:center ;
+    text-align:left ;
     color: crimson;
+    font-size: medium;
 }
 
-para1 {
+footer {
     text-align: center;
     color: red;
   }
@@ -11,4 +12,7 @@ para1 {
  
 h1, h2 {
 color:red;
+text-overflow: clip;
+text-align: justify;
+font-size: xx-large;
 }  
