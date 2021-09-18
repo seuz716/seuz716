@@ -1,3 +1,27 @@
+body{
+  background-color: burlywood;
+}
+
+#principal, #grupodetitulos{
+  background-color: cornflowerblue;
+ }
+
+
+#barraprincipal{
+
+  background-color: bisque;
+}
+
+#barralado, #articulo2 {
+  background-color: beige;
+}
+
+#principal2{
+
+  background-color: bisque;
+}
+
+
 p{ 
     text-align:left ;
     color: crimson;
