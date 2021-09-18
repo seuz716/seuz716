@@ -14,11 +14,18 @@ li{
 
 #barraprincipal{
   background-color: bisque;
-  
+ 
 }
 
-#barralado, #articulo2 {
+#articulo2 {
   background-color: beige;
+}
+
+#barralado {  
+  background-color: beige;
+  float: left;
+  height: 1580px; 
+  
 }
 
 #principal2{
