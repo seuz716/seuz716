@@ -27,7 +27,9 @@ background-color: bisque;
   float: left;
   height: 1280px;
   clear: both;
-   
+  margin-top: 1px;
+  margin-bottom: 1px;
+
   
 }
 
