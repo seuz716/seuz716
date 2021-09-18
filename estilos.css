@@ -7,6 +7,7 @@ body{
  }
 
 li{
+  background-color:cyan;
   text-align: center;
   display: inline;
   font-size: medium;
@@ -29,8 +30,11 @@ background-color: bisque;
   clear: both;
   margin-top: 1px;
   margin-bottom: 1px;
-
   
+}
+
+#identificadores{
+  background-color: blue;
 }
 
 #principal2{
