@@ -13,7 +13,8 @@ li{
 }
 
 #barraprincipal{
-  background-color: bisque;
+background-color: bisque;
+
  
 }
 
@@ -24,13 +25,15 @@ li{
 #barralado {  
   background-color: beige;
   float: left;
-  height: 1580px; 
+  height: 1280px;
+  clear: both;
+   
   
 }
 
 #principal2{
-
   background-color: bisque;
+  margin-left: 200px;
 }
 
 
